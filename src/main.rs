@@ -61,7 +61,7 @@ fn main() {
     //     println!("the value is: {element}");
     // }
 
-    // for number in (1..4).rev() {    //1이상 4미만 number >= 1 && number < 4
+    // for number in (1..4).rev() {    //1이상 4미만 역순 number >= 1 && number < 4
     //     println!{"{number}!"};
     // }
     // println!("LIFTOFF!!!");
